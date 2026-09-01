@@ -19,7 +19,7 @@ from dotenv import load_dotenv
 load_dotenv()  # reads HF_TOKEN from a local .env file if present
 
 st.set_page_config(page_title="HF Chatbot", page_icon="🤖")
-st.title("🤖 My First Hugging Face Chatbot")
+st.title("🤖 Chat with Buddy")
 
 # List of open chat models that currently have an active Inference Provider
 # (Hugging Face routes requests to partners like Together, Novita, Fireworks,
