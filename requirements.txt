@@ -1,0 +1,4 @@
+huggingface_hub
+streamlit>=1.38.0
+huggingface_hub>=0.25.0
+python-dotenv>=1.0.1
